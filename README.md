@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Asif Hussain</h1>
 <h3 align="center">A dedicated data scientist from India</h3>
 <img align="right" alt="coding"width="400" src="https://i.pinimg.com/originals/d4/81/f3/d481f3c72e283309071f79e01b05c06d.gif"
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=asif7074&label=Profile%20views&color=0e75b6&style=flat" alt="asif7074" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=asifhussain-datascientist&label=Profile%20views&color=0e75b6&style=flat" alt="asifhussain-datascientist" /> </p>
 
 - 📫 How to reach me **asifh1720@gmail.com**
 
